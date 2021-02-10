@@ -39,5 +39,13 @@
 
 * الذكاء الاصطناعي
   * [هشام عاصم](https://www.youtube.com/c/HeshamAsem/playlists)
+
+* الحماية والأمن المعلوماتي
+  * [Free4arab](https://www.youtube.com/user/Nourelhoda2011/playlists)
+  * [عبد الله السكري](https://www.youtube.com/user/abdallahelsokary/playlists)
+  * [iSecur1ty](https://www.youtube.com/c/iSecur1tycommunity/playlists)
+  * [MadrasaTech Official](https://www.youtube.com/c/MadrasaTechOfficial/playlists)
+  * [Fadi Alaswadi](https://www.youtube.com/c/Faswadi/playlists)
+  
  
 </div>
