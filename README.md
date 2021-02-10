@@ -47,5 +47,7 @@
   * [MadrasaTech Official](https://www.youtube.com/c/MadrasaTechOfficial/playlists)
   * [Fadi Alaswadi](https://www.youtube.com/c/Faswadi/playlists)
   
- 
+* الشبكات
+  * [Free4arab](https://www.youtube.com/user/Nourelhoda2011/playlists)
+  * [Ahmed Abdallah](https://www.youtube.com/channel/UCXfeRCbzr9L9nL8_bJW1gzA/playlists)
 </div>
