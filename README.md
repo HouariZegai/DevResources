@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 ## مصادر باللغة العربية لتعلم البرمجة 
 
 * مدخل إلى الخوارزميات وعلوم الحاسوب
@@ -50,4 +48,3 @@
 * الشبكات
   * [Free4arab](https://www.youtube.com/user/Nourelhoda2011/playlists)
   * [Ahmed Abdallah](https://www.youtube.com/channel/UCXfeRCbzr9L9nL8_bJW1gzA/playlists)
-</div>
