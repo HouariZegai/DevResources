@@ -1,11 +1,14 @@
-## مصادر باللغة العربية لتعلم البرمجة 
+<div dir="rtl">
+<h2>مصادر باللغة العربية لتعلم البرمجة</h2>
 
-* مدخل إلى الخوارزميات وعلوم الحاسوب
-  * [فوائد تعلم البرمجة](https://youtu.be/VPtapGzSScU)
-  * [موقع هرموش](https://harmash.com/algorithms)
-  * [كتاب البحر الشاسع لدخول الخوارزميات من بابها الواسع](https://www.arab-books.com/wp-content/uploads/2020/11/10319.pdf)
-  * [CS50 (سلسلة فيديوهات من جامعة هارفرد)](https://www.youtube.com/c/cs50/videos)
-  
+<h4>مدخل إلى الخوارزميات وعلوم الحاسوب</h4>
+<ul>
+ <li><a href="https://youtu.be/VPtapGzSScU" target="_blank">فوائد تعلم البرمجة</a></li>
+ <li><a href="https://harmash.com/algorithms" target="_blank">موقع هرموش</a></li>
+ <li><a href="https://www.arab-books.com/wp-content/uploads/2020/11/10319.pdf" target="_blank">كتاب البحر الشاسع لدخول الخوارزميات من بابها الواسع</a></li>
+ <li><a href="https://www.youtube.com/c/cs50/videos" target="_blank">CS50 (سلسلة فيديوهات من جامعة هارفرد)</a></li>
+</ul>
+
 * الخوارزميات وهياكل البيانات
   * [Code Masry](https://www.youtube.com/user/codemasrytube/playlists)
   * [Arabic Competitive Programming](https://www.youtube.com/c/ArabicCompetitiveProgramming/playlists)
@@ -48,3 +51,5 @@
 * الشبكات
   * [Free4arab](https://www.youtube.com/user/Nourelhoda2011/playlists)
   * [Ahmed Abdallah](https://www.youtube.com/channel/UCXfeRCbzr9L9nL8_bJW1gzA/playlists)
+
+</div>
