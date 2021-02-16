@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
 
-You can use the [editor on GitHub](https://github.com/HouariZegai/DevResources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## مصادر باللغة العربية لتعلم البرمجة 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* مدخل إلى الخوارزميات وعلوم الحاسوب
+  * [فوائد تعلم البرمجة](https://youtu.be/VPtapGzSScU)
+  * [موقع هرموش](https://harmash.com/algorithms)
+  * [كتاب البحر الشاسع لدخول الخوارزميات من بابها الواسع](https://www.arab-books.com/wp-content/uploads/2020/11/10319.pdf)
+  * [CS50 (سلسلة فيديوهات من جامعة هارفرد)](https://www.youtube.com/c/cs50/videos)
+  
+* الخوارزميات وهياكل البيانات
+  * [Code Masry](https://www.youtube.com/user/codemasrytube/playlists)
+  * [Arabic Competitive Programming](https://www.youtube.com/c/ArabicCompetitiveProgramming/playlists)
+  * [يغداد الجديدة](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3a1pbPrE6fvNuV3qi-6KRf)
+  
+* جافا
+  * عبدالله عيد
+    * [جافا 101](https://youtube.com/playlist?list=PL28DDB2DCF87BEE43)
+    * [جافا 102](https://youtube.com/playlist?list=PL138BE19EA2405C94)
+    * [جافا 103](https://youtube.com/playlist?list=PLA94A6FB67AB4CD0D)
+    * [جافا 104](https://youtube.com/playlist?list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)
+    
+* السي شارب (C#)
+  * [خالد السعداني](https://youtube.com/playlist?list=PLwj1YcMhLRN24KqNI0xQrNscBfLnYeJpL)
 
-### Markdown
+* السي / السي++ (C/C++)
+  * [محمد عيسى](https://www.youtube.com/c/MuhammedEssa/playlists)
+* البايثون
+  * [Elzero Web school](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+  * [أكاديمية حسونة](https://youtube.com/playlist?list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* الأندرويد
+  * [بغداد الجديدة - جافا](https://youtube.com/playlist?list=PLF8OvnCBlEY3e0Yg990aAXreEru72_xWN)
+  * [بغداد الجديدة - كوتلن](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ)
+  * [أحمد عز - كوتلن](https://www.youtube.com/playlist?list=PLb6ZzJ93PVwo6OSME4hXu1ZEiNjtkZe4y)
+  
+* برمجة الويب
+  * [Elzero Web School](https://www.youtube.com/c/ElzeroInfo/playlists)
 
-```markdown
-Syntax highlighted code block
+* الذكاء الاصطناعي
+  * [هشام عاصم](https://www.youtube.com/c/HeshamAsem/playlists)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HouariZegai/DevResources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* الحماية والأمن المعلوماتي
+  * [Free4arab](https://www.youtube.com/user/Nourelhoda2011/playlists)
+  * [عبد الله السكري](https://www.youtube.com/user/abdallahelsokary/playlists)
+  * [iSecur1ty](https://www.youtube.com/c/iSecur1tycommunity/playlists)
+  * [MadrasaTech Official](https://www.youtube.com/c/MadrasaTechOfficial/playlists)
+  * [Fadi Alaswadi](https://www.youtube.com/c/Faswadi/playlists)
+  
+* الشبكات
+  * [Free4arab](https://www.youtube.com/user/Nourelhoda2011/playlists)
+  * [Ahmed Abdallah](https://www.youtube.com/channel/UCXfeRCbzr9L9nL8_bJW1gzA/playlists)
+</div>
